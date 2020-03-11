@@ -1,2 +1,2 @@
-# terraform_task
-terraform_task
+# terraform_azure_linux_vm_docker
+terraform_azure_linux_vm_docker
