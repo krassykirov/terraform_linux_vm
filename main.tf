@@ -1,4 +1,3 @@
-# https://docs.microsoft.com/en-us/azure/developer/terraform/create-linux-virtual-machine-with-infrastructure
 # terraform plan -out terraform_azure.tfplan 
 # terraform apply terraform_azure.tfplan
 
